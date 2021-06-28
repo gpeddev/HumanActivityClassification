@@ -1,2 +1,2 @@
-* linguist-language=python
+* linguist-language=python tensorflow
 *.ipynb linguist-vendored=false
